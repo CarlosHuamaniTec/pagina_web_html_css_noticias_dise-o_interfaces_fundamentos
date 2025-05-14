@@ -1,2 +1,1 @@
 # Página Web  de Noticias hecha con HTML y CSS
-Este es un proyecto realizado por mí y un grupo de compañeros aplicando los fundamentos de las tecnologías HTML y CSS para el curso de Diseño de Interfaces de primer ciclo.
